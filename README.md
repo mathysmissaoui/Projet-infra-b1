@@ -2,7 +2,7 @@
 
 **mathys bjorn lionel nathan**
 
-Nous avons crée cette document technique pour permettre a un nouvel utilisateur du VPN de connaitre les differentes etapes de construction et d'installation pour qu'ils soit fonctionnel.
+Nous avons crée cette documentation technique pour permettre a un nouvel utilisateur du VPN de connaitre les differentes etapes de construction et d'installation pour qu'ilpuisse utilisé le VPN.
 
 
 
